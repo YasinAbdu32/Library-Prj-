@@ -11,16 +11,16 @@ public class LibraryBookTracker {
     }
 
     private static void initializeBookCatalog() {
-        bookCatalog[0] = "Fahrenheit 451";
-        bookCatalog[1] = "The Catcher in the Rye";
-        bookCatalog[2] = "The Martian";
-        bookCatalog[3] = "American Psycho";
-        bookCatalog[4] = "Little Women";
-        bookCatalog[5] = "Project Hail Mary";
-        bookCatalog[6] = "The Cipher";
-        bookCatalog[7] = "The Sailor Who Fell from Grace with the Sea";
-        bookCatalog[8] = "The Twenty Days of Turin";
-        bookCatalog[9] = "Alice's Adventures in Wonderland";
+        bookCatalog[0] = "The Alchemist";
+        bookCatalog[1] = "The Great Gatsby";
+        bookCatalog[2] = "To Kill a Mockingbird";
+        bookCatalog[3] = "The Catcher in the Rye";
+        bookCatalog[4] = "The Hitchhiker's Guide to the Galaxy";
+        bookCatalog[5] = "Dreaming in Code";
+        bookCatalog[6] = "Diary of Wimpy Kid Roderick Rules";
+        bookCatalog[7] = "Rich Dad Poor Dad";
+        bookCatalog[8] = "48 Laws of Power";
+        bookCatalog[9] = "The Art of War";
         numberOfBooks = 10;
     }
 
